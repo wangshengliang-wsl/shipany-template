@@ -48,15 +48,26 @@ cp .env.example .env.development
 
 - Set your theme in `src/app/theme.css`
 
-[tweakcn](https://tweakcn.com/editor/theme)
-
 - Set your landing page content in `src/i18n/pages/landing`
 
 - Set your i18n messages in `src/i18n/messages`
 
 ## Deploy
 
-- Deploy to Vercel
+### main分支
+
+- Deploy to Vercel 
+
+[部署到 Vercel](https://docs.shipany.ai/zh/deploy/deploy-to-vercel)
+
+### cloudflare分支
+
+- Deploy to Cloudflare
+
+[部署到 Cloudflare](https://docs.shipany.ai/zh/deploy/deploy-to-cloudflare)
+
+[关于Cloudflare分支部署遇到的问题](https://github.com/boomer1678/shipany-template/wiki/%E5%85%B3%E4%BA%8ECloudflare%E5%88%86%E6%94%AF%E9%83%A8%E7%BD%B2%E9%81%87%E5%88%B0%E7%9A%84%E9%97%AE%E9%A2%98)
+
 
 ## Community
 
