@@ -54,6 +54,8 @@ cp .env.example .env.development
 
 ## Deploy
 
+[一张表来说Vercel 和 Cloudflare的区别](https://github.com/boomer1678/shipany-template/wiki/%E4%B8%80%E5%BC%A0%E8%A1%A8%E6%9D%A5%E8%AF%B4Vercel-%E5%92%8C-Cloudflare%E7%9A%84%E5%8C%BA%E5%88%AB)
+
 ### main分支
 
 - Deploy to Vercel 
